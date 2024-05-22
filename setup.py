@@ -12,7 +12,7 @@ with open("README.md", 'r', encoding='UTF-8') as f:
 
 setup(
     name='wolfsoftware.drawlines',
-    version='0.1.0',
+    version='0.1.1',
     author='Wolf Software',
     author_email='pypi@wolfsoftware.com',
     description='Draw lines on the console with optional text',
@@ -52,5 +52,6 @@ setup(
         'Programming Language :: Python :: 3.12',
         'Operating System :: OS Independent',
         'Topic :: Software Development',
-    ]
+    ],
+    python_requires='>=3.9',
 )

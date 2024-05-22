@@ -3,7 +3,7 @@ message: If you use this software, please cite it using these metadata.
 title: Draw Lines
 abstract: Draw lines on the console with optional text.
 type: software
-version: 0.1.0
+version: 0.1.1
 date-released: 2024-05-22
 repository-code: https://github.com/DevelopersToolbox/draw-lines-package
 keywords:
