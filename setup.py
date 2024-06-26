@@ -12,10 +12,10 @@ with open("README.md", 'r', encoding='UTF-8') as f:
 
 setup(
     name='wolfsoftware.drawlines',
-    version='0.1.2',
+    version='0.1.3',
     author='Wolf Software',
     author_email='pypi@wolfsoftware.com',
-    description='Draw lines on the console with optional text',
+    description='Draw lines on the console with optional text.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     license='MIT',
